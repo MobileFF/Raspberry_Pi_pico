@@ -28,12 +28,14 @@ Raspberry Pi picoのピン配置をArduinoシールドに変換できなくて�
 中の人はジャンパピンでつなげるように作ってみました。
 
 <div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5yPZMalBtGE4qh9ODEayuhFZbtT8TE-OtnD9nbMWezZLm9r8Q2TY1OPihCWOfLPJHC9ol40YJYmHVPLF4JZQ1M6jjHxDQmBspcUmnKWbDKqTaHDyzziAE64QwVqnuObq8RpiRrCt53ZhXMhjzzk2I5gcp-pGZC3TlUifFY3OM68d0B5XRVB0rStt_NPMq/s2166/IMG_2185.jpg" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" height="400" data-original-height="2166" data-original-width="1926" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5yPZMalBtGE4qh9ODEayuhFZbtT8TE-OtnD9nbMWezZLm9r8Q2TY1OPihCWOfLPJHC9ol40YJYmHVPLF4JZQ1M6jjHxDQmBspcUmnKWbDKqTaHDyzziAE64QwVqnuObq8RpiRrCt53ZhXMhjzzk2I5gcp-pGZC3TlUifFY3OM68d0B5XRVB0rStt_NPMq/s400/IMG_2185.jpg"/></a></div>
-  
+
+
 2. microSDカードスロット用のシールド
 
 中の人は、microSDカードのシールドは、以前Arduino用に用意していた自作シールドがあったのですが、今回Raspberry Pi pico用にピン配置を変更して再利用しました。
 
 <div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgI9jBKjqcCUkefDVpTyBXSYf3TpkA_BqEtAgNErVx4lmKHX5n6LndAJCyDpJg7bCFkghIYt1HzhYCnzrXArgjWBzu3CeNi71Md0atWXcbxSEo5P-KkP7ax1d0ZRxfs3bOi9Z08E6miF65Gtfjd9IHVdZnPFn60RgsqaXneJRKot8OZK8F6sowd4YOIocZI/s2305/IMG_2187.jpg" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="400" data-original-height="1485" data-original-width="2305" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgI9jBKjqcCUkefDVpTyBXSYf3TpkA_BqEtAgNErVx4lmKHX5n6LndAJCyDpJg7bCFkghIYt1HzhYCnzrXArgjWBzu3CeNi71Md0atWXcbxSEo5P-KkP7ax1d0ZRxfs3bOi9Z08E6miF65Gtfjd9IHVdZnPFn60RgsqaXneJRKot8OZK8F6sowd4YOIocZI/s400/IMG_2187.jpg"/></a></div>
+
 
 3. YM2151シールド
 
