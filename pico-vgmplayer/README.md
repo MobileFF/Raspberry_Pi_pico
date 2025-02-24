@@ -1,4 +1,4 @@
-# pico-vgmplayer <!-- omit in toc -->
+# pico-vgmplayer-YM2151 <!-- omit in toc -->
 
 <div class="separator" style="clear: both;">
 <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbmsX2J3pXsSzcKEfjSspUDzI9JXmOQKXJ2lfm7ZgAFvSTKTVKtvRGjJxAEI7kze8kNH2_f5zHMmXs9TEhIM4gQIaXckjaLKZuvWn-UspZXd3G15OgIjrQ3kOluPD1f5dZapslawYufR8q1vVaaBejxsbWK_CGXucCyz3F9yNB867YdI0d86NGP3IK78qn/s3474/IMG_20240908_012131_1.jpg" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" height="400" data-original-height="3474" data-original-width="3336" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbmsX2J3pXsSzcKEfjSspUDzI9JXmOQKXJ2lfm7ZgAFvSTKTVKtvRGjJxAEI7kze8kNH2_f5zHMmXs9TEhIM4gQIaXckjaLKZuvWn-UspZXd3G15OgIjrQ3kOluPD1f5dZapslawYufR8q1vVaaBejxsbWK_CGXucCyz3F9yNB867YdI0d86NGP3IK78qn/s400/IMG_20240908_012131_1.jpg"/></a></div>
