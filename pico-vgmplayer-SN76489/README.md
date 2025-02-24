@@ -53,12 +53,12 @@ Raspberry Pi picoのピン配置をArduinoシールドに変換できなくて�
 | GP06 | D8      | D1(2)   | -       |
 | GP07 | D9      | D0(3)   | -       |
 | GP08 | D10     | WE(5)   | -       |
-| GP09 | -       | WR      | -       |
 | ...  | ...     | ...     | ...     |
 | GP16 | A3      | -       | MISO    |
 | GP17 | A0      | -       | CS      |
 | GP18 | A1      | -       | SCK     |
 | GP19 | A2      | -       | MOSI    |
+| ...  | ...     | ...     | ...     |
 | VSYS | 5V      | VCC(16) | VCC     |
 | GND  | GND     | GND(8)  | GND     |
  
