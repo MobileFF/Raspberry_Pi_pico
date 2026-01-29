@@ -1,5 +1,9 @@
 # uart-wr-box <!-- omit in toc -->
 
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiagv9jhbjBnjHdbm71MI5Q0GRytWfM30EnqIKgNMt5rLMvMRRvxmQKLDNu8p8xRVnJQG7h3KDIpsTRiA7aQMcoi_t-EM9K_7SRbyA8zd8HLgcRUskVW92pOuBBpi3UOEY4DQj_WSgLCX7jTs7vQwdJBtzOZeP0N21_2HH6w1NezmbhlyO6_n3m6lGFqgGr/s2000/bafkreiculskahbql5q4xmhcbimexdbxvdinqh4xmcaobtei3yglcwe3ioq.jpg" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="400" data-original-height="886" data-original-width="2000" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiagv9jhbjBnjHdbm71MI5Q0GRytWfM30EnqIKgNMt5rLMvMRRvxmQKLDNu8p8xRVnJQG7h3KDIpsTRiA7aQMcoi_t-EM9K_7SRbyA8zd8HLgcRUskVW92pOuBBpi3UOEY4DQj_WSgLCX7jTs7vQwdJBtzOZeP0N21_2HH6w1NezmbhlyO6_n3m6lGFqgGr/s400/bafkreiculskahbql5q4xmhcbimexdbxvdinqh4xmcaobtei3yglcwe3ioq.jpg"/></a></div>
+</textarea>
+
+
 - [概要](#概要)
 - [ハードウェア側の準備](#ハードウェア側の準備)
 - [ピン配置](#ピン配置)

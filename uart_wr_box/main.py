@@ -63,13 +63,13 @@ cs = Pin(13,Pin.OUT,Pin.PULL_UP)
 cs.value(1)
 
 #spi = SPI(1,sck=Pin(10), mosi=Pin(11), miso=Pin(12))
-spi = machine.SPI(1,
+spi = SPI(1,
     baudrate=100000,
     polarity=0,
     phase=0,
-    sck=machine.Pin(10),
-    mosi=machine.Pin(11),
-    miso=machine.Pin(12)
+    sck=Pin(10),
+    mosi=Pin(11),
+    miso=Pin(12)
 )
 sd = None
 while True:
