@@ -15,3 +15,7 @@ Raspberry Pi pico用のサンプルプログラムです。
 ## pico-vgmplayer-AY-3-8910
 
 [ひろましゃ](https://x.com/h1romas4)氏が作成した[arduino-vgmplayer](https://github.com/h1romas4/arduino-vgmplayer)をベースに、Arduino化したRaspberry Pi picoでAY-3-8910を使ってVGMデータを演奏できるようにしたものです。VGMデータはmicroSDのルートディレクトリに入っているファイルを順に演奏していきます。また、DFPlayer miniのUART I/Fを一部取り入れ、再生、一時停止、次曲、前曲の操作をUART経由で行うことが可能です。
+
+## uart_wr_box
+
+9600bpsのUART通信内容をファイルとしてSDカードに保存したり、SDカードに入っているファイルの内容をUARTに出力したりすることができる自作電子工作「UART WR Box」のファームウェアになります。
