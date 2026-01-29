@@ -41,8 +41,8 @@ Raspberry Pi picoと周辺モジュールとの接続（ピン配置）は以下
 | ---- | -------------- | ------- | ---- | ------- |
 | GP00 | I2C SDA        | SDA     | -    | -       |
 | GP01 | I2C SCL        | SCL     | -    | -       |
-| GP04 | UART RX        | SCL     | -    | RX      |
-| GP05 | UART TX        | SCL     | -    | TX      |
+| GP04 | UART RX        | -       | -    | RX      |
+| GP05 | UART TX        | -       | -    | TX      |
 | GP10 | SPI SCK        | -       | SCK  | -       |
 | GP11 | SPI MOSI       | -       | MOSI | -       |
 | GP12 | SPI MISO       | -       | MISO | -       |
